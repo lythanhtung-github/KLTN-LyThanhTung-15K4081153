@@ -1,4 +1,5 @@
-KHÓA LUẬN TỐT NGHIỆP 2019
+KHÓA LUẬN TỐT NGHIỆP 2019 (KHAI PHÁ DỮ LIỆU): 
+PHÁT HIỆN TRANG WEB LỪA ĐẢO DỰA TRÊN MÔ HÌNH PHÂN LỚP RANDOM FOREST
 
 1. Kiến thức & Công nghệ áp dụng: Java Swing, Weka...
 
